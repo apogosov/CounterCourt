@@ -24,12 +24,12 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void addThreeForTeamA(View view) {
-        scoreTeamA = scoreTeamA + 3;
+
         displayForTeamA(scoreTeamA);
     }
 
     public void addTwoForTeamA(View view) {
-        scoreTeamA = scoreTeamA + 2;
+        scoreTeamA += 2;
         displayForTeamA(scoreTeamA);
     }
 
