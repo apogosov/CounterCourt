@@ -1,4 +1,4 @@
-package com.example.android.countercourt;
+package com.example.android.courtcounter;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

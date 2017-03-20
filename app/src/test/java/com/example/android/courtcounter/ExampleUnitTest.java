@@ -1,4 +1,4 @@
-package com.example.android.countercourt;
+package com.example.android.courtcounter;
 
 import org.junit.Test;
 
